@@ -123,7 +123,7 @@ Multilingual-AI-Text-Detection/
 ├── paper/
 │   └── research_paper.pdf
 ├── results/
-│   └── detector_results.csv
+│   └── AI vs Human - Result classification.xlsx
 ├── figures/
 │   ├── detector_comparison.png
 │   └── language_comparison.png
