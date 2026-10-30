@@ -64,6 +64,12 @@ These metrics should be interpreted separately, as they represent different aspe
 
 The experimental results are provided as CSV files in the `results/` directory.
 
+### Reproducible Analysis
+
+The analysis notebook contains the Python code used to load the experimental results, calculate comparisons and generate the visualisations.
+
+[View the Results Analysis Notebook](notebooks/results_analysis.ipynb)
+
 ### Accuracy
 
 The accuracy results compare the performance of the six detection tools and examine differences across the five languages.
@@ -163,11 +169,13 @@ Multilingual-AI-Text-Detection/
 ├── results/
 │   ├── detector_results.csv
 │   └── detector_precision_results.csv
-└── figures/
-    ├── detector_accuracy.png
-    ├── language_accuracy.png
-    ├── detector_precision.png
-    └── language_precision.png
+├── figures/
+│   ├── detector_accuracy.png
+│   ├── language_accuracy.png
+│   ├── detector_precision.png
+│   └── language_precision.png
+└── notebooks/
+    └── results_analysis.ipynb
 ```
 
 ## Acknowledgements
