@@ -185,3 +185,13 @@ This research was completed as part of COMP SCI 2008 at the University of Adelai
 ## Disclaimer
 
 This project evaluates AI text detection tools for research and educational purposes. Its findings should not be used as the sole basis for decisions about academic misconduct or the authorship of a text.
+
+## Licensing
+
+The research paper, *Detecting Machine-Generated Text: How Effective are Current AI-Detection Methods for Non-English Text?*, is licensed under the [Creative Commons Attribution 4.0 International Licence (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+This licence permits others to share and adapt the paper, including for commercial purposes, provided appropriate attribution is given.
+
+Copyright remains with the original author, Angus Fotheringham. Third-party material included in the research may be subject to separate copyright and licensing conditions.
+
+Unless otherwise indicated, all other original project materials are © 2026 Angus Fotheringham. All rights reserved.
