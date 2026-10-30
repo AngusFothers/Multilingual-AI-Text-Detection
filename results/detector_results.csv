@@ -1,0 +1,12 @@
+result_type,name,regular_accuracy_pct,inclusive_accuracy_pct,mean_accuracy_pct
+detector,DetectGPT,58.333333,80.000000,69.166667
+detector,Go Winston,50.000000,73.333333,61.666666
+detector,GPT Zero,63.157895,63.333333,63.245614
+detector,GPT-2 Output Detector Demo,55.555556,90.000000,72.777778
+detector,Writer,46.428571,93.333333,69.880952
+detector,ZeroGPT,59.090909,73.333333,66.212121
+language,English,61.290323,86.111111,73.700717
+language,Spanish,58.064516,86.111111,72.087813
+language,German,56.250000,88.888889,72.569445
+language,Chinese,50.000000,77.777778,63.888889
+language,Arabic,45.000000,55.555556,50.277778
