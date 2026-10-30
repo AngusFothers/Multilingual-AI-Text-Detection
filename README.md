@@ -1,4 +1,4 @@
-# Multilingual AI Text Detection
+# Multilingual AI Text Detection (2024) - Angus Fotheringham
 
 An evaluation of AI-generated text detection tools across five languages: English, Spanish, German, Chinese and Arabic.
 
