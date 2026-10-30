@@ -1,0 +1,12 @@
+result_type,name,precision_pct,inclusive_precision_pct
+detector,DetectGPT,50.000,57.143
+detector,Go Winston,47.059,52.381
+detector,GPT Zero,80.000,85.714
+detector,GPT-2 Output Detector Demo,66.667,66.667
+detector,Writer,0.000,0.000
+detector,ZeroGPT,60.000,58.333
+language,English,60.000,66.667
+language,Spanish,60.000,60.000
+language,German,62.500,60.000
+language,Chinese,50.000,55.556
+language,Arabic,44.444,50.000
